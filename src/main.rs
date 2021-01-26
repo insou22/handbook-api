@@ -23,12 +23,12 @@ fn rocket() -> Rocket {
 }
 
 fn run_course(code: String, year: Option<u32>, level: Option<String>) -> Option<Course> {
-    let year  = year
+    let year = year
         .unwrap_or_else(|| chrono::Local::now().year() as u32);
-    
-        let level = level
-            .map(|level| StudyLevel::from(&*level))
-            .unwrap_or(StudyLevel::Undergrad);
+
+    let level = level
+        .map(|level| StudyLevel::from(&*level))
+        .unwrap_or(StudyLevel::Undergrad);
 
     api::course::get_course(&*code, year, level)
 }
