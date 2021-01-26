@@ -1,0 +1,859 @@
+URL: https://www.handbook.unsw.edu.au/api/content/render/false/query/+contentType:unsw_psubject%20+unsw_psubject.studyLevelURL:undergraduate%20+unsw_psubject.implementationYear:2021%20+unsw_psubject.code:COMP1521%20+deleted:false%20+working:true%20+live:true%20+languageId:1%20/orderBy/modDate%20desc
+
+{
+    "contentlets": [
+        {
+            "studyLevelURL": "undergraduate",
+            "creditPoints": "6",
+            "data": "!!! FOLLOWING !!!",
+            "keywords": "computer science,programming,computing,systems",
+            "studyLevel": "Undergraduate",
+            "deliveryMethodAlt": "1238f5ffdbc90010ad972ed344961986",
+            "inode": "4b2e5d80-0016-42bf-a341-db5e3758a78f",
+            "ascedDetailed": "4a4529564ff5d7009e2bfd501310c7c9",
+            "host": "f59fc109-4aaa-40e0-bdcc-7039d31533f8",
+            "ascedBroadSingle": "8a948253db96df002e4c126b3a961950",
+            "locked": false,
+            "stInode": "8edd6955-283b-4e77-a23f-b968d2642ec1",
+            "contentType": "unsw_psubject",
+            "identifier": "d4995568-6afd-4f5c-94f1-9c521ed17df4",
+            "level": "subject",
+            "active": "1",
+            "version": "1",
+            "folder": "SYSTEM_FOLDER",
+            "hasTitleImage": false,
+            "sortOrder": 0,
+            "generalEducation": "true",
+            "status": "Active",
+            "hostName": "www.handbook.unsw.edu.au",
+            "csTags": "96d9bae4db2d4810fc9364e70596193a",
+            "modDate": "2020-10-27 15:28:07.671",
+            "code": "COMP1521",
+            "ascedNarrow": "4e4529564ff5d7009e2bfd501310c7c8",
+            "sysId": "24d0b573db315c50eb6b147a3a961992",
+            "deliveryMethod": "1238f5ffdbc90010ad972ed344961986",
+            "noEnrolment": 0,
+            "description": "<p>This course provides a programmer&#39;s view on how a computer system executes programs, manipulates data and communicates. It enables students to become effective programmers in dealing with issues of performance, portability, and robustness. It is typically taken in the term after completing COMP1511, but could be delayed and taken later. It serves as a foundation for later courses on networks, operating systems, computer architecture and compilers, where a deeper understanding of systems-level issues is required.</p>\n\n<p><strong>Topics:</strong><br />\nIntroduction to the systems-level view of computing, number representation, machine-level programming, representing high-level programs in machine code, memory, input/output, system architectures, operating systems, networks, parallelism/concurrency, communication/synchronisation. Labs and assignment work in C and machine code.</p>\n",
+            "title": "Computer Systems Fundamentals",
+            "contentTypeLabel": "Course",
+            "baseType": "CONTENT",
+            "specialUnitType": "Introductory Course",
+            "archived": false,
+            "levelNumber": "1",
+            "working": true,
+            "live": true,
+            "academicOrg": "1a3a1d4f4f4d97404aa6eb4f0310c780",
+            "owner": "dotcms.org.1",
+            "ascedBroad": "8a948253db96df002e4c126b3a961950,",
+            "studyLevelValue": "ugrd",
+            "languageId": 1,
+            "URL_MAP_FOR_CONTENT": "/undergraduate/courses/2021/COMP1521/",
+            "teachingPeriod": "03067bf7db7993009c2c403c3a961997,601633b7db7993009c2c403c3a9619ab",
+            "parentAcademicOrg": "5fa56ceb4f0093004aa6eb4f0310c7af",
+            "url": "/content.c80c9371-70b4-40e2-b8fc-6320d7a138ef",
+            "educationalArea": "COMP",
+            "titleImage": "TITLE_IMAGE_NOT_FOUND",
+            "modUserName": "Admin User",
+            "implementationYear": "2021",
+            "urlMap": "/undergraduate/courses/2021/COMP1521/",
+            "publishedInHandbook": 1,
+            "modUser": "dotcms.org.1",
+            "effectiveDate": "2021-01-01"
+        }
+    ]
+}
+
+// data from above query, formatted as string-encoded json.
+"data": {
+    "published_in_handbook": {
+        "label": "Yes",
+        "value": "1"
+    },
+    "implementation_year": "2021",
+    "duration_ft_max": "",
+    "asced_detailed": {
+        "value": "031305 Computer Engineering",
+        "cl_id": "4a4529564ff5d7009e2bfd501310c7c9",
+        "key": "display_value"
+    },
+    "study_level": [
+        {
+            "label": "Undergraduate",
+            "value": "ugrd"
+        }
+    ],
+    "status": {
+        "label": "Approved",
+        "value": "Active"
+    },
+    "duration_pt_max": "",
+    "duration_pt_std": "",
+    "credit_points": "6",
+    "parent_id": {
+        "value": "Master Record: COMP1521",
+        "cl_id": "a8d0b573db315c50eb6b147a3a961971",
+        "key": "code",
+        "type": "x_f5sl_cl_master_record"
+    },
+    "start_date": "",
+    "active": "true",
+    "cl_code": "COMP1521",
+    "academic_calendar_type": {
+        "value": "3+",
+        "cl_id": "8d60f65ddb5c1450fc9364e7059619d7",
+        "key": "name"
+    },
+    "academic_org": {
+        "value": "School of Computer Science and Engineering",
+        "cl_id": "1a3a1d4f4f4d97404aa6eb4f0310c780",
+        "key": "name"
+    },
+    "sms_version": "",
+    "uac_code": "",
+    "keywords": "",
+    "duration_pt_min": "",
+    "title": "Computer Systems Fundamentals",
+    "effective_date": "2021-01-01",
+    "delivery_method": {
+        "label": null,
+        "value": null
+    },
+    "duration_ft_std": "",
+    "version": "1",
+    "duration_ft_min": "",
+    "duration_ft_period": {
+        "label": null,
+        "value": null
+    },
+    "asced_narrow": {
+        "value": "031300 Electrical and Electronic Engineering and Technology",
+        "cl_id": "4e4529564ff5d7009e2bfd501310c7c8",
+        "key": "display_value"
+    },
+    "subclass": {
+        "label": "Course",
+        "value": "subject"
+    },
+    "type": {
+        "label": "Award course",
+        "value": "award_course"
+    },
+    "version_name": "2021.01",
+    "pre_requisites": "",
+    "cl_id": "24d0b573db315c50eb6b147a3a961992",
+    "parent_academic_org": {
+        "value": "Faculty of Engineering",
+        "cl_id": "5fa56ceb4f0093004aa6eb4f0310c7af",
+        "key": "name"
+    },
+    "content": null,
+    "collaborating_disciplines": [],
+    "overview": "",
+    "end_date": "",
+    "duration_pt_period": {
+        "label": null,
+        "value": null
+    },
+    "contact_hours": "",
+    "asced_broad": {
+        "value": "030000 Engineering and Related Technologies",
+        "cl_id": "8a948253db96df002e4c126b3a961950",
+        "key": "display_value"
+    },
+    "admin_location": {
+        "value": "Sydney",
+        "cl_id": "196234bfdb0f8b005012ff0dbf961912",
+        "key": "name"
+    },
+    "unit_learning_outcomes": [
+        {
+            "lo_domain": [],
+            "order": "2",
+            "number": "2",
+            "code": "CLO2",
+            "lo_cl_id": "0dd0b573db315c50eb6b147a3a9619e4",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "0dd0b573db315c50eb6b147a3a9619e4",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "explain how the major components of a CPU work together, including how data and instructions are represented in a computer",
+            "cl_id": "0dd0b573db315c50eb6b147a3a9619e4",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "6",
+            "number": "6",
+            "code": "CLO6",
+            "lo_cl_id": "11d0b573db315c50eb6b147a3a9619f0",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "11d0b573db315c50eb6b147a3a9619f0",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "explain how input/output operations are implemented, and describe some basic I/O devices",
+            "cl_id": "11d0b573db315c50eb6b147a3a9619f0",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "1",
+            "number": "1",
+            "code": "CLO1",
+            "lo_cl_id": "41d0b573db315c50eb6b147a3a9619c9",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "41d0b573db315c50eb6b147a3a9619c9",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "describe the layers of architecture in modern computer systems from hardware device levels upwards",
+            "cl_id": "41d0b573db315c50eb6b147a3a9619c9",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "3",
+            "number": "3",
+            "code": "CLO3",
+            "lo_cl_id": "49d0b573db315c50eb6b147a3a9619e7",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "49d0b573db315c50eb6b147a3a9619e7",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "design, implement and analyse small programs at the assembly/machine level",
+            "cl_id": "49d0b573db315c50eb6b147a3a9619e7",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "7",
+            "number": "7",
+            "code": "CLO7",
+            "lo_cl_id": "5dd0b573db315c50eb6b147a3a9619f2",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "5dd0b573db315c50eb6b147a3a9619f2",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "describe the layered structure of standard TCP/IP network  architecture",
+            "cl_id": "5dd0b573db315c50eb6b147a3a9619f2",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "4",
+            "number": "4",
+            "code": "CLO4",
+            "lo_cl_id": "85d0b573db315c50eb6b147a3a9619ea",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "85d0b573db315c50eb6b147a3a9619ea",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "describe the relationship between high-level procedural languages (e.g., C) and assembly/machine language in the conventional machine layer, including how a compiled program is executed in a classical von Neumann machine",
+            "cl_id": "85d0b573db315c50eb6b147a3a9619ea",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "8",
+            "number": "8",
+            "code": "CLO8",
+            "lo_cl_id": "99d0b573db315c50eb6b147a3a9619f5",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "99d0b573db315c50eb6b147a3a9619f5",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "implement C programs using Posix system calls for file system management, process control, inter-process communication",
+            "cl_id": "99d0b573db315c50eb6b147a3a9619f5",
+            "ga_map": []
+        },
+        {
+            "lo_domain": [],
+            "order": "5",
+            "number": "5",
+            "code": "CLO5",
+            "lo_cl_id": "c1d0b573db315c50eb6b147a3a9619ed",
+            "lo_domain_description": "",
+            "offerings": [],
+            "linking_id": "c1d0b573db315c50eb6b147a3a9619ed",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "description": "describe the components of, and the services offered by, modern operating systems, including file systems, virtual memory, processes, and communication primitives",
+            "cl_id": "c1d0b573db315c50eb6b147a3a9619ed",
+            "ga_map": []
+        }
+    ],
+    "hb_entries": [
+        {
+            "html": null,
+            "status": {
+                "label": null,
+                "value": null
+            },
+            "cl_id": "a0d0b573db315c50eb6b147a3a9619ae",
+            "value2": "",
+            "link_url": "http://www.cse.unsw.edu.au/~cs1521/",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "hbeorder": "",
+            "text": "COMP1521 Course Outline",
+            "hbetype": {
+                "label": null,
+                "value": null
+            },
+            "handbook_entry_field_content": "",
+            "heading": "",
+            "category": {
+                "label": null,
+                "value": null
+            },
+            "value1": "",
+            "handbook_code": ""
+        }
+    ],
+    "school_detail": [
+        {
+            "cl_id": "1a3a1d4f4f4d97404aa6eb4f0310c780",
+            "published_in_handbook": {
+                "label": "Yes",
+                "value": "1"
+            },
+            "name": "School of Computer Science and Engineering",
+            "ext_id": "COMPSC",
+            "active": "true",
+            "parent": {
+                "value": "Faculty of Engineering",
+                "cl_id": "5fa56ceb4f0093004aa6eb4f0310c7af",
+                "key": "name"
+            },
+            "code": "COMPSC",
+            "description": "",
+            "url": "http://www.cse.unsw.edu.au/",
+            "name_url": "School of Computer Science and Engineering",
+            "name_no_url": ""
+        }
+    ],
+    "hb_delivery_variations": [
+        {
+            "delivery_collaborators": {
+                "label": "Standard (usually weekly or fortnightly)",
+                "value": "ST"
+            },
+            "delivery_mode": {
+                "value": "Blended in-person / online",
+                "cl_id": "1238f5ffdbc90010ad972ed344961986",
+                "key": "description"
+            },
+            "handbook_notes": "",
+            "delivery_name": "BLENDED-ST",
+            "contact_hours": "7",
+            "delivery_variation_label": "",
+            "cl_id": "95d0b573db315c50eb6b147a3a9619f9",
+            "display_name": "Blended in-person / online - Standard (usually weekly or fortnightly)"
+        }
+    ],
+    "enrolment_rules": [
+        {
+            "active": "true",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "type": {
+                "label": "Enrolment Requirements",
+                "value": "info"
+            },
+            "order": "",
+            "cl_id": "50ae554cdb02d850358b403c3a9619b3",
+            "description": "Prerequisite: COMP1511 or DPST1091 or COMP1911 or COMP1917<br/><br/>"
+        }
+    ],
+    "faculty_detail": [
+        {
+            "cl_id": "5fa56ceb4f0093004aa6eb4f0310c7af",
+            "published_in_handbook": {
+                "label": "Yes",
+                "value": "1"
+            },
+            "name": "Faculty of Engineering",
+            "ext_id": "ENG",
+            "active": "true",
+            "parent": {
+                "value": "",
+                "cl_id": null,
+                "key": "name"
+            },
+            "code": "ENG",
+            "description": "Offering 60 years of excellence in developing socially engaged engineers, developing new technologies and solutioning problems of global relevance.",
+            "url": "http://www.eng.unsw.edu.au",
+            "name_url": "Faculty of Engineering",
+            "name_no_url": ""
+        }
+    ],
+    "requisites": [],
+    "unit_offering": [
+        {
+            "fees_domestic": "",
+            "publish": "true",
+            "location": {
+                "value": "",
+                "cl_id": null,
+                "key": "name"
+            },
+            "name": "COMP1521-7",
+            "clarification_to_appear_in_handbook": "",
+            "display_name": "",
+            "teaching_period": {
+                "value": "Term 2",
+                "cl_id": "03067bf7db7993009c2c403c3a961997",
+                "key": "name"
+            },
+            "attendance_mode": {
+                "value": "",
+                "cl_id": null,
+                "key": "description"
+            },
+            "quota_number": "",
+            "study_level": {
+                "label": "Undergraduate",
+                "value": "ugrd"
+            },
+            "self_enrol": "true",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "fees_commonwealth": "",
+            "fees_international": "",
+            "course_restrictions": "",
+            "cl_id": "3a4ef548dbc2d850358b403c3a961909"
+        },
+        {
+            "fees_domestic": "",
+            "publish": "true",
+            "location": {
+                "value": "",
+                "cl_id": null,
+                "key": "name"
+            },
+            "name": "COMP1521-8",
+            "clarification_to_appear_in_handbook": "",
+            "display_name": "",
+            "teaching_period": {
+                "value": "Term 3",
+                "cl_id": "601633b7db7993009c2c403c3a9619ab",
+                "key": "name"
+            },
+            "attendance_mode": {
+                "value": "",
+                "cl_id": null,
+                "key": "description"
+            },
+            "quota_number": "",
+            "study_level": {
+                "label": "Undergraduate",
+                "value": "ugrd"
+            },
+            "self_enrol": "true",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "fees_commonwealth": "",
+            "fees_international": "",
+            "course_restrictions": "",
+            "cl_id": "4c0df9c4dbc2d850358b403c3a9619b9"
+        },
+        {
+            "fees_domestic": "",
+            "publish": "true",
+            "location": {
+                "value": "",
+                "cl_id": null,
+                "key": "name"
+            },
+            "name": "COMP1521-6",
+            "clarification_to_appear_in_handbook": "",
+            "display_name": "",
+            "teaching_period": {
+                "value": "Term 1",
+                "cl_id": "bc067bf7db7993009c2c403c3a961994",
+                "key": "name"
+            },
+            "attendance_mode": {
+                "value": "",
+                "cl_id": null,
+                "key": "description"
+            },
+            "quota_number": "",
+            "study_level": {
+                "label": "Undergraduate",
+                "value": "ugrd"
+            },
+            "self_enrol": "true",
+            "academic_item": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "fees_commonwealth": "",
+            "fees_international": "",
+            "course_restrictions": "",
+            "cl_id": "9698e10cdb42d850358b403c3a96191d"
+        }
+    ],
+    "academic_calendar_tooltip": "Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.",
+    "academic_item_type": "Course",
+    "no_enrolment": "false",
+    "offering_detail": {
+        "key": "ugrd",
+        "fees": {
+            "fees_commonwealth_link": {
+                "label": "Commonwealth Supported Students (if applicable)",
+                "value": "https://student.unsw.edu.au/fees-student-contribution-rates"
+            },
+            "fees_commonwealth": "",
+            "fees_domestic_link": {
+                "label": "Domestic Students",
+                "value": "https://student.unsw.edu.au/fees-domestic-full-fee-paying"
+            },
+            "fees_domestic": "",
+            "fees_international_link": {
+                "label": "International Students",
+                "value": "https://student.unsw.edu.au/fees-international"
+            },
+            "fees_international": ""
+        },
+        "offering_terms": "Term 2, Term 3",
+        "fees_table": "",
+        "erg": [],
+        "campus": {
+            "name": ""
+        }
+    },
+    "additional_information": "",
+    "study_level_tooltip": "Undergraduate: A level of study that leads to the award of a Diploma, Advanced Diploma, Associate Degree or a Bachelor Degree (pass or honours).",
+    "campus": "Sydney",
+    "study_level_single": {
+        "label": "Undergraduate",
+        "value": "ugrd"
+    },
+    "code": "COMP1521",
+    "attributes": [
+        {
+            "name": "Introductory Course",
+            "code": "introductory_course",
+            "description": "This course is usually taken in the early part of a program and may be required as a pre-requisite before taking a more advanced course."
+        },
+        {
+            "name": "General Education",
+            "code": "general_education",
+            "description": "This course is available as general education and normally taken outside the study area in which the student’s program is based. Availability of general education courses outside of the owning Faculty may be restricted by the Program Authority, usually because they are closely related to the study area of the student’s program."
+        }
+    ],
+    "credit_points_header": "6 Units of Credit",
+    "eqivalents": [
+        {
+            "dependent_type": {
+                "label": null,
+                "value": null
+            },
+            "ai_cl_id": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "association_type": {
+                "label": "Equivalents",
+                "value": "9"
+            },
+            "association_desc": "",
+            "associated_ai_cl_id": {
+                "value": "DPST1092",
+                "cl_id": "7fc56df3dbbd1c50eb6b147a3a9619dc",
+                "key": "code"
+            },
+            "cl_id": "154d15c8db02d850358b403c3a96196d",
+            "assoc_credit_points": "6",
+            "assoc_active": "true",
+            "assoc_title": "Computer Systems Fundamentals",
+            "assoc_cl_id": "7fc56df3dbbd1c50eb6b147a3a9619dc",
+            "assoc_short_title": "DPST1092 - Computer Systems Fundamentals",
+            "assoc_campus": null,
+            "assoc_url": "/undergraduate/courses/2021/DPST1092",
+            "assoc_class": "Course",
+            "assoc_award_titles": null,
+            "assoc_state": "show",
+            "assoc_award_single": "",
+            "assoc_code": "DPST1092",
+            "assoc_class_translated_subjects": "Course",
+            "assoc_faculty": "UNSW Global",
+            "assoc_class_translated": "Program",
+            "assoc_duration_hb_display": "",
+            "assoc_current_version": {},
+            "links": []
+        }
+    ],
+    "exclusion": [
+        {
+            "dependent_type": {
+                "label": null,
+                "value": null
+            },
+            "ai_cl_id": {
+                "value": "COMP1521",
+                "cl_id": "24d0b573db315c50eb6b147a3a961992",
+                "key": "code"
+            },
+            "association_type": {
+                "label": "Exclusions",
+                "value": "10"
+            },
+            "association_desc": "",
+            "associated_ai_cl_id": {
+                "value": "DPST1092",
+                "cl_id": "7fc56df3dbbd1c50eb6b147a3a9619dc",
+                "key": "code"
+            },
+            "cl_id": "2d4d15c8db02d850358b403c3a96196f",
+            "assoc_credit_points": "6",
+            "assoc_active": "true",
+            "assoc_title": "Computer Systems Fundamentals",
+            "assoc_cl_id": "7fc56df3dbbd1c50eb6b147a3a9619dc",
+            "assoc_short_title": "DPST1092 - Computer Systems Fundamentals",
+            "assoc_campus": null,
+            "assoc_url": "/undergraduate/courses/2021/DPST1092",
+            "assoc_class": "Course",
+            "assoc_award_titles": null,
+            "assoc_state": "show",
+            "assoc_award_single": "",
+            "assoc_code": "DPST1092",
+            "assoc_class_translated_subjects": "Course",
+            "assoc_faculty": "UNSW Global",
+            "assoc_class_translated": "Program",
+            "assoc_duration_hb_display": "",
+            "assoc_current_version": {},
+            "links": []
+        }
+    ],
+    "search_title": "COMP1521 - Computer Systems Fundamentals",
+    "description": "<p>This course provides a programmer&#39;s view on how a computer system executes programs, manipulates data and communicates. It enables students to become effective programmers in dealing with issues of performance, portability, and robustness. It is typically taken in the term after completing COMP1511, but could be delayed and taken later. It serves as a foundation for later courses on networks, operating systems, computer architecture and compilers, where a deeper understanding of systems-level issues is required.</p><br /><p><strong>Topics:</strong><br />Introduction to the systems-level view of computing, number representation, machine-level programming, representing high-level programs in machine code, memory, input/output, system architectures, operating systems, networks, parallelism/concurrency, communication/synchronisation. Labs and assignment work in C and machine code.</p><br />",
+    "hb_assessments": [
+        {
+            "delivery_variation": {
+                "cl_id": "95d0b573db315c50eb6b147a3a9619f9",
+                "name": "Blended in-person / online - Standard (usually weekly or fortnightly)"
+            },
+            "assessments": [
+                {
+                    "individual": {
+                        "label": null,
+                        "value": null
+                    },
+                    "assessment_name": "Quizzes",
+                    "assessment_type": {
+                        "label": "Test",
+                        "value": "test"
+                    },
+                    "assessment_id": "2",
+                    "weighting": "10",
+                    "description": "<p>Fortnightly on-line quizzes, each covering topics from previous two week&#39;s lectures</p>\\n",
+                    "learning_outcomes": [
+                        {
+                            "value": "CLO2",
+                            "cl_id": "0dd0b573db315c50eb6b147a3a9619e4",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO6",
+                            "cl_id": "11d0b573db315c50eb6b147a3a9619f0",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO1",
+                            "cl_id": "41d0b573db315c50eb6b147a3a9619c9",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO7",
+                            "cl_id": "5dd0b573db315c50eb6b147a3a9619f2",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO4",
+                            "cl_id": "85d0b573db315c50eb6b147a3a9619ea",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO8",
+                            "cl_id": "99d0b573db315c50eb6b147a3a9619f5",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO5",
+                            "cl_id": "c1d0b573db315c50eb6b147a3a9619ed",
+                            "key": "code"
+                        }
+                    ],
+                    "delivery_variations": [],
+                    "applies_to_all_delivery_variations": "true",
+                    "cl_id": "38d0b573db315c50eb6b147a3a9619b6",
+                    "links": []
+                },
+                {
+                    "individual": {
+                        "label": null,
+                        "value": null
+                    },
+                    "assessment_name": "Assignments",
+                    "assessment_type": {
+                        "label": "Assignment",
+                        "value": "assignment"
+                    },
+                    "assessment_id": "3",
+                    "weighting": "20",
+                    "description": "<p>Take-home programming assignments (one due week 6 in assembly language, one due week 10 in the C programming language)</p>\\n",
+                    "learning_outcomes": [
+                        {
+                            "value": "CLO3",
+                            "cl_id": "49d0b573db315c50eb6b147a3a9619e7",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO4",
+                            "cl_id": "85d0b573db315c50eb6b147a3a9619ea",
+                            "key": "code"
+                        }
+                    ],
+                    "delivery_variations": [],
+                    "applies_to_all_delivery_variations": "true",
+                    "cl_id": "70d0b573db315c50eb6b147a3a9619bb",
+                    "links": []
+                },
+                {
+                    "individual": {
+                        "label": null,
+                        "value": null
+                    },
+                    "assessment_name": "Labs",
+                    "assessment_type": {
+                        "label": "Lab work",
+                        "value": "lab_work"
+                    },
+                    "assessment_id": "4",
+                    "weighting": "10",
+                    "description": "<p>Weekly lab exercises, each covering topics from previous week&#39;s lectures</p>\\n",
+                    "learning_outcomes": [
+                        {
+                            "value": "CLO3",
+                            "cl_id": "49d0b573db315c50eb6b147a3a9619e7",
+                            "key": "code"
+                        }
+                    ],
+                    "delivery_variations": [],
+                    "applies_to_all_delivery_variations": "true",
+                    "cl_id": "b8d0b573db315c50eb6b147a3a9619bf",
+                    "links": []
+                },
+                {
+                    "individual": {
+                        "label": null,
+                        "value": null
+                    },
+                    "assessment_name": "Final Exam",
+                    "assessment_type": {
+                        "label": "Examination",
+                        "value": "examination"
+                    },
+                    "assessment_id": "1",
+                    "weighting": "60",
+                    "description": "<p>On-line (in-lab) examination covering all topics in course. Includes programming questions in assembler and C and theory/analysis questions.</p>\\n",
+                    "learning_outcomes": [
+                        {
+                            "value": "CLO2",
+                            "cl_id": "0dd0b573db315c50eb6b147a3a9619e4",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO6",
+                            "cl_id": "11d0b573db315c50eb6b147a3a9619f0",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO1",
+                            "cl_id": "41d0b573db315c50eb6b147a3a9619c9",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO3",
+                            "cl_id": "49d0b573db315c50eb6b147a3a9619e7",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO7",
+                            "cl_id": "5dd0b573db315c50eb6b147a3a9619f2",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO4",
+                            "cl_id": "85d0b573db315c50eb6b147a3a9619ea",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO8",
+                            "cl_id": "99d0b573db315c50eb6b147a3a9619f5",
+                            "key": "code"
+                        },
+                        {
+                            "value": "CLO5",
+                            "cl_id": "c1d0b573db315c50eb6b147a3a9619ed",
+                            "key": "code"
+                        }
+                    ],
+                    "delivery_variations": [],
+                    "applies_to_all_delivery_variations": "true",
+                    "cl_id": "fcd0b573db315c50eb6b147a3a9619b1",
+                    "links": []
+                }
+            ]
+        }
+    ],
+    "inactive_course_alert": null,
+    "timetableURL": "http://timetable.unsw.edu.au/2021/COMP1521.html",
+    "subject_sample_text_staticcontent": "To access course outline, please visit:",
+    "links": []
+}
